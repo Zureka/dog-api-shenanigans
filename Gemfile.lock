@@ -1,0 +1,14 @@
+GEM
+  specs:
+    addressable (2.3.8)
+    launchy (2.4.3)
+      addressable (~> 2.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  launchy
+
+BUNDLED WITH
+   1.16.1
